@@ -1,5 +1,5 @@
 # User Settings | Edit there as per required
-remove_theme : ankitsultana/accent
+remote_theme : ankitsultana/accent
 
 title: accent
 url: "http://ankitsultana.com"
