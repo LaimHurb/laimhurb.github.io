@@ -13,7 +13,7 @@ author: laimhurb
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    laimhurb's blog
 
 # This will what will show against &copy; in the footer
 copyright: laimhurb
@@ -43,8 +43,8 @@ about_stub: >
 
 about_footer: true
 
-twitter_username: AnkitSultana
-github_username: yourgithub
+twitter_username: LaimHurb
+github_username: LaimHurb
 facebook_id: yourusername
 
 favicon: true
