@@ -50,13 +50,13 @@ facebook_id: yourusername
 favicon: true
 favicon_location: "images/favicon.ico"
 
-profile_picture: images/temp.png
-paginate: 5
+profile_picture: images/profile.png
+paginate: 10
 paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
-og_image: "images/accent.png" # This will show in facebook thumbnails
+og_image: "images/van-gogh.png" # This will show in facebook thumbnails
 twitter_image: "http://ankitsultana.com/images/accent.png?1234" # This will show in twitter cards
 
 ####################################
