@@ -1,4 +1,7 @@
 ---
+title: "첫 블로그 포스팅을 시작하며..."
+date: 2019-05-22 18:40:40 -0400
+categories: laimhurb update
 ---
 
 This is <span class="capsule">accent</span> a minimal, mobile friendly theme for <span class="capsule">Jekyll</span>
