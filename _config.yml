@@ -2,8 +2,8 @@
 remote_theme : ankitsultana/accent
 
 title: accent
-url: "http://ankitsultana.com"
-baseurl: "/accent"
+url: "https://laimhurb.github.io"
+baseurl: ""
 
 # This will show up at the top of index page
 site_heading: >
