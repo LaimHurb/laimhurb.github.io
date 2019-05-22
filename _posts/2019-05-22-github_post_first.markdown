@@ -4,19 +4,6 @@ date: 2019-05-22 18:40:40 -0400
 categories: laimhurb update
 ---
 
-This is <span class="capsule">accent</span> a minimal, mobile friendly theme for <span class="capsule">Jekyll</span>
+#<span class="capsule">iOS</span>를 개발해오면서 겪은 그간의 상황을 끄적여 보겠다.
+그리고, 나의 이력과 프로젝트의 이야기가 주를 이룰것 같다.
 
-It features:
-
-1. Customizable [accent](http://ankitsultana.com/accent/documentation.html)
-2. Comments with Disqus
-3. [Permalinks](http://ankitsultana.com/accent/testing.html) for headers
-4. [Guest Posts](http://ankitsultana.com/accent/guest-posts.html)
-5. [Author's Page](http://ankitsultana.com/accent/about)
-6. Author's Profile Picture, Short Bio.
-7. Pagination using `jekyll-paginate`
-8. [Syntax Highlighting](http://ankitsultana.com/accent/documentation.html) for code
-9. [RSS Feed](http://ankitsultana.com/accent/feed.xml)
-10. [Google Analytics](http://ankitsultana.com/accent/documentation.html)
-11. A [404](http://ankitsultana.com/accent/404.html) page.
-12. Full Documentation on the [Demo](http://ankitsultana.com/accent) website.
