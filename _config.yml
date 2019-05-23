@@ -67,7 +67,7 @@ twitter_image: "http://ankitsultana.com/images/accent.png?1234" # This will show
 ####################################
 ####################################
 
-markdown: kramdown
+#markdown: kramdown
 
 plugins:
     - jekyll-paginate
