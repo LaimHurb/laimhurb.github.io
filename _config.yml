@@ -9,14 +9,14 @@ site_heading: >
     LaimHurb <span class="faded">'s blog</span>
 
 email: laimhurb@gmail.com
-author: laimhurb
+author: LaimHurb
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    laimhurb's blog
+    LaimHurb's blog
 
 # This will what will show against &copy; in the footer
-copyright: laimhurb
+copyright: LaimHurb
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
@@ -67,7 +67,7 @@ twitter_image: "http://ankitsultana.com/images/accent.png?1234" # This will show
 ####################################
 ####################################
 
-#markdown: kramdown
+markdown: kramdown
 
 plugins:
     - jekyll-paginate
