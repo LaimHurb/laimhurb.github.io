@@ -39,9 +39,9 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    #iOS #Swift #Apple #Music #Photo #UI/UX
 
-about_footer: false
+about_footer: true
 
 twitter_username: LaimHurb
 github_username: LaimHurb
