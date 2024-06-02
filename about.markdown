@@ -58,10 +58,10 @@ HP 010-9887-0366<br>
 기술 스택 : Swift(5.x), SwiftUI(3.x)<br>
 
 1. 개인 및 기업 내 명상 구독 서비스 제공
-* 입사 전 개발된 iOS 플랫폼의 유지보수 및 신규 피쳐 개발<br>
-* MVC 기반 RxSwift 및 Snapkit 라이브러리를 전역으로 UI 및 로직 개발<br>
-* RESTFul API - Alamofire - Moya 통신 기반으로 데이터 적용<br>
-* 인앱 결제 및 구독 서비스를 통해 B2C / B2B 고객 유치<br><br>
+1-1 입사 전 개발된 iOS 플랫폼의 유지보수 및 신규 피쳐 개발<br>
+1-2 MVC 기반 RxSwift 및 Snapkit 라이브러리를 전역으로 UI 및 로직 개발<br>
+1-3 RESTFul API - Alamofire - Moya 통신 기반으로 데이터 적용<br>
+1-4 인앱 결제 및 구독 서비스를 통해 B2C / B2B 고객 유치<br><br>
 
 ##### 한국인증서비스
 > 두리안 중고거래 및 직구상품 구매 플랫폼<br>
@@ -70,14 +70,14 @@ HP 010-9887-0366<br>
 기술 스택 : Swift(5.x), Objective-C, NodeJS, MongoDB<br>
 
 1. 개인간 중고물품 안전거래 서비스 및 직구물품, 명품경매 서비스 제공<br>
-* 선행 개발된 AOS 프로젝트 분석, 개발<br>
-* MVC 기판 Storyboard 및 인터페이스 빌드 기반으로 UI 개발<br>
-* RESTFul API - Alamofire 통신 기반으로 데이터 적용<br>
-* 애플 로그인 및 탈퇴 기능을 위해 서버 API 추가 개발 <br> 
+1-1 선행 개발된 AOS 프로젝트 분석, 개발<br>
+1-2 MVC 기판 Storyboard 및 인터페이스 빌드 기반으로 UI 개발<br>
+1-3 RESTFul API - Alamofire 통신 기반으로 데이터 적용<br>
+1-4 애플 로그인 및 탈퇴 기능을 위해 서버 API 추가 개발 <br> 
  * 로그인의 경우 타사 소셜 로그인과 동일한 방식으로 데이터 기록<br>
  * 탈퇴(Revoke API) 기능은 Apple 요구사항에 따라 JWT 방식으로 Data 가공 및 정합성 처리 후 성공(200), 기기 내 해당 서비스 키가 삭제되는 부분을 개발 <br>
-* Firebase 푸시 메시지 이용 중 방해금지 모드 적용을 위해 API 개발 및 서버 내 푸시 서비스 코드 개발
-* 특정 시간에 서버 환율 정보 갱신을 위한 크론 개발
+1-5 Firebase 푸시 메시지 이용 중 방해금지 모드 적용을 위해 API 개발 및 서버 내 푸시 서비스 코드 개발
+1-6 특정 시간에 서버 환율 정보 갱신을 위한 크론 개발
 
 ---
 
